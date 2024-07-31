@@ -36,7 +36,7 @@ Through this project, I learned:
 - The basics of temperature conversion between Kelvin, Celsius, and Fahrenheit.
 - How to declare and manipulate variables in JavaScript.
 - The use of `Math.floor()` for rounding numbers.
-- Fundamental programming concepts such as constants and variables.
+- Fundamental programming concepts such as constants and variables, template literals.
 
 ## Project Sources and Inspiration
 This project was inspired and learned from Codecademy's Learn JavaScript course. The course provides a step-by-step guide to understanding JavaScript fundamentals and practical exercises to apply the concepts.
